@@ -30,7 +30,9 @@ My goal is to become a strong developer with a solid portfolio. 🚀
 **Tools:**  
 - Git & GitHub  
 - VS Code  
-- Figma (basic)  
+- AutoCAD (basic)
+- Wokwi (Arduino)
+- TinkerCAD  
 
 **Interests:**  
 - Python scripting & automation  
