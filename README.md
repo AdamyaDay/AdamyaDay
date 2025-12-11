@@ -1,67 +1,59 @@
-# 👋 Hi! I'm Adamya Srivastava  
+# Hi, I'm Adamya Srivastava
 
-I'm a BTech ECE student at SRM, building my skills through **Python**, **beginner Web Development**, and small real-world projects.  
-I focus on learning by doing — building tools, automations, and documenting everything I learn.  
-My goal is to become a strong developer with a solid portfolio. 🚀
-
----
-
-## 🌱 What I'm Currently Learning  
-- **Python Development** (projects, automations, scripts)  
-- **Web Development Basics** (HTML, CSS, JS)  
-- **Problem-Solving & Logic Building**
+I am a B.Tech ECE student at SRM with a strong interest in software development, Python-based automation, and practical project building.  
+I focus on writing clean, functional code and improving my skills through hands-on development rather than theory alone.
 
 ---
 
-## 🛠️ Recent Projects  
-- 🎮 **Ping Pong (Python)** — A simple classic arcade game  
-- 🔊 **Wearable Text-to-Speech Device** — Prototype made for a college hackathon  
-- 🧬 **DNA Replication Model** — Visual academic project  
-- 📂 **Mini Python Projects** (calculator, file organizer, small utilities)
+## What I’m Working On
+- Python development: tools, automation scripts, and small applications  
+- Web development: building a foundation in HTML, CSS, and JavaScript  
+- Strengthening problem-solving, logic, and clean code habits  
 
 ---
 
-## 🧰 Skills & Tools  
-**Languages:**  
+## Projects
+- **Hand Gesture Mouse (Python)** – Real-time virtual mouse using MediaPipe, OpenCV, PyAutoGUI  
+- **Ping Pong Game (Python)** – Basic game mechanics implemented from scratch  
+- **Wearable Text-to-Speech Device** – Prototype designed for a college hackathon  
+- **DNA Replication Model** – Visual and conceptual academic project  
+- **Mini Python Utilities** – File organizer, calculator, and small automation tools  
+
+---
+
+## Skills
+
+**Languages**  
 - Python  
 - C  
-- HTML, CSS, JavaScript (learning)  
+- HTML, CSS, JavaScript (beginner)
 
-**Tools:**  
-- Git & GitHub  
+**Tools & Platforms**  
+- Git and GitHub  
 - VS Code  
-- AutoCAD (basic)
-- Wokwi (Arduino)
-- TinkerCAD  
+- AutoCAD (basic)  
+- Wokwi (Arduino), TinkerCAD  
 
-**Interests:**  
-- Python scripting & automation  
-- Web development  
-- Building real projects  
-- Learning new tech step-by-step
-
----
-
-## 💬 Ask Me About  
-- Getting started with Python  
-- Beginner-friendly web development  
-- How to structure small projects  
-- Using Git & GitHub as a student  
+**Areas of Interest**  
+- Practical Python scripting  
+- Web development fundamentals  
+- Automation tools  
+- Building small, useful projects  
 
 ---
 
-## 🔍 Currently Exploring  
-- Building responsive web pages  
-- Small Python tools & utilities  
-- Improving clean code practices  
-- How to maintain active GitHub repositories  
+## Currently Exploring
+- Responsive web design  
+- Structuring and maintaining active GitHub repositories  
+- Improving code readability and documentation  
+- Expanding my Python project portfolio  
 
 ---
 
-## 📫 How to Reach Me  
-📧 **Email:** srivastavaadamya249@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/adamya-srivastava-405670291  
+## Contact
+**Email:** srivastavaadamya249@gmail.com  
+**LinkedIn:** https://linkedin.com/in/adamya-srivastava-405670291  
 
 ---
 
-⭐ *"Every project I build takes me one step closer to where I want to be."*
+*"Every project I build helps me become a better developer."*
