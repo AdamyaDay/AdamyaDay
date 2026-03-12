@@ -15,9 +15,7 @@ I focus on writing clean, functional code and improving my skills through hands-
 ## Projects
 - **Hand Gesture Mouse (Python)** – Real-time virtual mouse using MediaPipe, OpenCV, PyAutoGUI  
 - **Ping Pong Game (Python)** – Basic game mechanics implemented from scratch  
-- **Wearable Text-to-Speech Device** – Prototype designed for a college hackathon  
-- **DNA Replication Model** – Visual and conceptual academic project  
-- **Mini Python Utilities** – File organizer, calculator, and small automation tools  
+- **Mini Python Utilities** – File organizer, calculator, and small automation tools
 
 ---
 
