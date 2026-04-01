@@ -54,4 +54,4 @@ I focus on writing clean, functional code and improving my skills through hands-
 
 ---
 
-*"Every project I build helps me become a better developer."*
+*"Gotta prove it somehow...."*
