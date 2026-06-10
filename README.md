@@ -23,7 +23,7 @@ I focus on writing clean, functional code and improving my skills through hands-
 
 **Languages**  
 - Python  
-- C  
+- C++  
 - HTML, CSS, JavaScript (beginner)
 
 **Tools & Platforms**  
