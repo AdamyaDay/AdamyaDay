@@ -1,57 +1,75 @@
-# Hi, I'm Adamya Srivastava
+# Adamya Srivastava
 
-I am a B.Tech ECE student at SRM with a strong interest in software development, Python-based automation, and practical project building.  
-I focus on writing clean, functional code and improving my skills through hands-on development rather than theory alone.
+**B.Tech ECE, SRM Institute of Science and Technology**
+**Software Developer (Python | Backend | Automation | GenAI)**
 
 ---
 
-## What I’m Working On
-- Python development: tools, automation scripts, and small applications  
-- Web development: building a foundation in HTML, CSS, and JavaScript  
-- Strengthening problem-solving, logic, and clean code habits  
+## Professional Summary
+
+Results-driven engineering student focused on building **production-oriented software systems**. Strong emphasis on **Python backend development, automation, and AI-integrated applications**. Demonstrates hands-on experience through multiple projects, with attention to **clean architecture, performance, and usability**.
+
+---
+
+## Technical Skills
+
+**Languages:** Python, C++, JavaScript (Basics)
+**Web:** HTML, CSS
+**Frameworks & Concepts:** Flask/FastAPI (learning), REST APIs, Automation, GenAI integration
+**Tools:** Git, GitHub, VS Code, Wokwi, TinkerCAD, AutoCAD (Basic)
 
 ---
 
 ## Projects
-- **Hand Gesture Mouse (Python)** – Real-time virtual mouse using MediaPipe, OpenCV, PyAutoGUI  
-- **Ping Pong Game (Python)** – Basic game mechanics implemented from scratch  
-- **Mini Python Utilities** – File organizer, calculator, and small automation tools
+
+### Hand Gesture Mouse (Python)
+
+Developed a real-time virtual mouse system using **MediaPipe, OpenCV, and PyAutoGUI**.
+
+* Implemented gesture recognition for cursor movement and actions
+* Enabled click and scroll through hand tracking
+* Optimized for responsiveness and usability
+
+### Ping Pong Game (Python)
+
+Built a 2D game from scratch focusing on **core logic and system design**.
+
+* Designed collision detection and game physics
+* Structured code for modularity and maintainability
+
+### Valorant Tracker (Python, No API)
+
+Developed a statistics tracking system without relying on official APIs.
+
+* Designed custom data handling and storage logic
+* Provided match history tracking and performance insights
+* Focused on automation and structured data processing
 
 ---
 
-## Skills
+## Experience Focus
 
-**Languages**  
-- Python  
-- C++  
-- HTML, CSS, JavaScript (beginner)
-
-**Tools & Platforms**  
-- Git and GitHub  
-- VS Code  
-- AutoCAD (basic)  
-- Wokwi (Arduino), TinkerCAD  
-
-**Areas of Interest**  
-- Practical Python scripting  
-- Web development fundamentals  
-- Automation tools  
-- Building small, useful projects  
+* Backend system development and API design
+* Automation tools and productivity-focused utilities
+* Building scalable and maintainable Python applications
+* Applying AI/GenAI concepts into practical solutions
 
 ---
 
-## Currently Exploring
-- Responsive web design  
-- Structuring and maintaining active GitHub repositories  
-- Improving code readability and documentation  
-- Expanding my Python project portfolio  
+## Current Development Focus
+
+* Backend frameworks (**Flask, FastAPI**)
+* System design fundamentals and architecture
+* Clean code practices and documentation standards
+* Expanding project portfolio with real-world use cases
 
 ---
 
 ## Contact
-**Email:** srivastavaadamya249@gmail.com  
-**LinkedIn:** https://linkedin.com/in/adamya-srivastava-405670291  
+
+Email: [srivastavaadamya249@gmail.com](mailto:srivastavaadamya249@gmail.com)
+LinkedIn: https://linkedin.com/in/adamya-srivastava-405670291
 
 ---
 
-*"Gotta prove it somehow...."*
+*Gotta prove it somehow...*
