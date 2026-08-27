@@ -1,7 +1,7 @@
 # Adamya Srivastava
 
-**B.Tech ECE, SRM Institute of Science and Technology**
-**Software Developer (Python | Backend | Automation | GenAI)**
+**B.Tech ECE, SRM Institute of Science and Technology**  
+*Software Developer | Python | Backend | Automation | GenAI*
 
 ---
 
