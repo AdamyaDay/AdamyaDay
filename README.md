@@ -13,10 +13,10 @@ Results-driven engineering student focused on building **production-oriented sof
 
 ## Technical Skills
 
-**Languages:** Python, C++, JavaScript (Basics)
-**Web:** HTML, CSS
-**Frameworks & Concepts:** Flask/FastAPI (learning), REST APIs, Automation, GenAI integration
-**Tools:** Git, GitHub, VS Code, Wokwi, TinkerCAD, AutoCAD (Basic)
+**Languages:** Python, C++, JavaScript (Basics)  
+**Web:** HTML, CSS  
+**Frameworks & Concepts:** Flask/FastAPI (learning), REST APIs, Automation, GenAI integration  
+**Tools:** Git, GitHub, VS Code, Wokwi, TinkerCAD, AutoCAD (Basic)  
 
 ---
 
@@ -67,8 +67,8 @@ Developed a statistics tracking system without relying on official APIs.
 
 ## Contact
 
-Email: [srivastavaadamya249@gmail.com](mailto:srivastavaadamya249@gmail.com)
-LinkedIn: https://linkedin.com/in/adamya-srivastava-405670291
+Email: [srivastavaadamya249@gmail.com](mailto:srivastavaadamya249@gmail.com)  
+LinkedIn: https://linkedin.com/in/adamya-srivastava-405670291  
 
 ---
 
